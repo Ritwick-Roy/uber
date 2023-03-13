@@ -1,0 +1,1 @@
+openai api completions.create -m davinci:ft-personal-2023-03-01-00-25-03 -p "prompt"
